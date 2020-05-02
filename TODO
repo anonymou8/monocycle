@@ -1,0 +1,4 @@
+- Hard limit bitrate
+- Disable pixel byte value overflow in 'monocycle:209'
+- Make audio bitrate match numbers (there was an attempt)
+
