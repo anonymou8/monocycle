@@ -5,6 +5,7 @@
 - then taking spectral "waterfall" image of the encoded audio,
 - then combining the spectrums back to an image.
 
+<img src="https://raw.githubusercontent.com/anonymou8/monocycle/master/frame_0333.jpg" style="width:100%"/>
 
 ### Files description
 ```
